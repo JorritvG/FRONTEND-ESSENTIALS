@@ -15,7 +15,7 @@
 #bovenkant{
     width: 300px;
     height: 600px;
-    background-color: red;
+    background-color: darkblue;
     display: inline-block; 
 }
 
@@ -29,7 +29,7 @@
 #onderkant{
     width: 300px;
     height: 600px;
-    background-color: darkblue;
+    background-color: red;
     display: inline-block; 
 }
 
