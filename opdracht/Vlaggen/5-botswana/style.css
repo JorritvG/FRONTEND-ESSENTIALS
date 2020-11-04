@@ -14,18 +14,21 @@
 
 #bovenkant{
     width: 900px;
-    height: 50%;
-    background-color: yellow; 
+    height: 175px;
+    background-color: #85baee; 
 }
 
 #midden {
     width: 900px;
-    height: 25%;
-    background-color: darkblue;
+    height: 150px;
+    background-color: black;
+    border-top: 50px solid white;
+    border-bottom: 50px solid white;
+    
 }
 
 #onderkant{
     width: 900px;
-    height: 25%;
-    background-color: red;
+    height: 175px;
+    background-color: #85baee;
 }
